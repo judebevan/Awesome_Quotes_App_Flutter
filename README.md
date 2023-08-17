@@ -1,4 +1,9 @@
-# quotes_proj
+# quotes_project
+
+![Screenshot_1692291041](https://github.com/judebevan/Awesome_Quotes_App_Flutter/assets/89778410/7a65d426-48ec-47ca-81c7-b5d4e341438a)
+
+![Screenshot_1692291051](https://github.com/judebevan/Awesome_Quotes_App_Flutter/assets/89778410/16a86df1-760d-40ab-b495-df390090768c)
+
 
 A new Flutter project.
 
